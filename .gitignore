@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+*.suo
+.vs/C_lang/v15/Browse.VC.db
+*.opendb
+C_lang.sln
+*.vcxproj
+C_lang/Debug/C_lang.log
+*.tlog
+*.filters
+C_lang/Debug/program.obj
+*.idb
+Debug/C_lang.ilk
+*.ipch
