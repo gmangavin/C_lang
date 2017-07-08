@@ -3,4 +3,5 @@
 void main()
 {
 	printf("Hello from C using Visual Studio!\n");
+	getchar();
 }
